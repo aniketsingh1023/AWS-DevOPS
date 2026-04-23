@@ -9,4 +9,4 @@ _ I know the progress on my devops journey is slow , none the less I found time 
 ![Reverse_Proxies_Assignment](/static/assignments/Reverse_Proxies_Assignment.png)
 
 lets see if I Can Complete it in one sitting or not 
-
+## first I will start with EC2 , Date 26th APRIL 
